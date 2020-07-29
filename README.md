@@ -1,6 +1,6 @@
 # Welcome to Thomas' GitHub Page 
 ## (tmb321.github.io)
-#### _I am originally from Wyoming. And as of 2020 am studying at Lehigh Univeristy in Pennsylvania_
+#### _I am originally from Wyoming. I am currently an undergraduate studying at Lehigh Univeristy in Pennsylvania_
 
 Right now this page is for my Data Storytelling Projects
 
