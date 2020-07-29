@@ -8,4 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Creating Bar Graph from the [NASA Fireball and Bolide Reports on Datastro](https://www.datastro.eu/explore/dataset/nasa-fireball-and-bolide-reports/table/?sort=date)
 
-![](CreatingChartsBolidFireballCountImage.png)
+<img src="CreatingChartsBolidFireballCountImage.png" width="800" height="550">
+
+
