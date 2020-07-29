@@ -7,7 +7,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Creating Charts Project
 
 Creating Bar Graph from the [NASA Fireball and Bolide Reports on Datastro](https://www.datastro.eu/explore/dataset/nasa-fireball-and-bolide-reports/table/?sort=date)
-```markdown
-# 1988-2020
 
-```
+![](CreatingChartsBolidFireballCountImage.png)
