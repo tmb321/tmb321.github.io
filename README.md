@@ -10,4 +10,4 @@ Creating Bar Graph from the [NASA Fireball and Bolide Reports on Datastro](https
 
 <img src="CreatingChartsBolidFireballCountImage.png" width="800" height="550">
 
-
+_[A Helpful YouTube Video for Moving Images to your GitHub Page](https://www.youtube.com/watch?v=hHbWF1Bvgf4)_
