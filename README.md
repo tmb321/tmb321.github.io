@@ -5,7 +5,7 @@
 
 Right now this page is for my Data Storytelling Projects
 
-## Creating Charts Project
+## A Project on Creating Charts from Data of Personal Interest
 
 Creating Bar Graph from the [NASA Fireball and Bolide Reports on Datastro](https://www.datastro.eu/explore/dataset/nasa-fireball-and-bolide-reports/table/?sort=date)
 
