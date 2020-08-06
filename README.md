@@ -17,8 +17,11 @@ _[A Helpful YouTube Video for Moving Images to your GitHub Page](https://www.you
 
 ### All 667 Search Results Organized into Downloadable Excel Workbook
 
-With two sheets: One organized by Date of Publication and the Second by The Nine Media Types in Assenting Order
+With three sheets: One organized by Date of Publication: the Second by The Nine Media Types in Assenting Order: the Third is For You to Sort However You Would
 
 [RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx](https://github.com/tmb321/tmb321.github.io/files/5036976/RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx)
 
+
 <iframe width="1000" height="750" frameborder="2" scrolling="no" src="https://onedrive.live.com/embed?resid=C126330A4DE07B19%21119&authkey=%21AAogi7nXDyclDUw&em=2&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+
+#### For more freedom with the data, you may download the sheet. Use the First Icon in the bottom dark gray bar^^
