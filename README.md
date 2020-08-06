@@ -16,7 +16,8 @@ _[A Helpful YouTube Video for Moving Images to your GitHub Page](https://www.you
 ## Explorations of Parse Hub's Ability to Pick Data 
 [The Racial Profiling Search Results](https://www.aclu.org/search/%20?f[0]=field_issues:245)
 
-### All 667 Search Results Organized into Downloadable Excel Workbook
+## All 667 Records on Racial Profiling are Organized into Downloadable Excel Workbook
+#### Organization of the Fields: Title, URL, Publication Date, and the Media Type (out of nine possible)
 
 With three sheets: One organized by Date of Publication: the Second by The Nine Media Types in Assenting Order: the Third is For You to Sort However You Would
 
