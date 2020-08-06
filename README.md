@@ -28,9 +28,9 @@ _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, wa
 
 <iframe width="1000" height="750" frameborder="2" scrolling="no" src="https://onedrive.live.com/embed?resid=C126330A4DE07B19%21119&authkey=%21AAogi7nXDyclDUw&em=2&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
-#### For more freedom with the data, you may download the sheet. Use the First Icon in the bottom dark gray bar^^
- [For A Video of the Method Used to Embed the Sheet Please Click Here](https://youtu.be/1lgyFIPvmNU?t=140)
+##### For more freedom with the data, you may download the sheet a second way. Use the First Icon (on the right side of the bottom dark gray bar^^)
+##### [For A Help Video on the Method Used to Embed the Sheet Please Click Here](https://youtu.be/1lgyFIPvmNU?t=140)
  
- ## A Project to Explore Google Virtual Tour
+## A Project to Explore Google Virtual Tour
  
  Coming Soon!
