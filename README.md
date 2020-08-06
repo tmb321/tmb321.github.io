@@ -19,3 +19,4 @@ _[A Helpful YouTube Video for Moving Images to your GitHub Page](https://www.you
 
 With two sheets: One organized by Date of Publication and the Second by The Nine Media Types in Assenting Order
 
+[RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx](https://github.com/tmb321/tmb321.github.io/files/5036976/RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx)
