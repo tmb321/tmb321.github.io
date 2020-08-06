@@ -13,7 +13,8 @@ Creating Bar Graph from the [NASA Fireball and Bolide Reports on Datastro](https
 
 _[A Helpful YouTube Video for Moving Images to your GitHub Page](https://www.youtube.com/watch?v=hHbWF1Bvgf4)_
 
-## Parse Hub [Racial Profiling Search Results](https://www.aclu.org/search/%20?f[0]=field_issues:245)
+## Explorations of Parse Hub's Ability to Pick Data 
+[The Racial Profiling Search Results](https://www.aclu.org/search/%20?f[0]=field_issues:245)
 
 ### All 667 Search Results Organized into Downloadable Excel Workbook
 
@@ -25,3 +26,6 @@ With three sheets: One organized by Date of Publication: the Second by The Nine 
 <iframe width="1000" height="750" frameborder="2" scrolling="no" src="https://onedrive.live.com/embed?resid=C126330A4DE07B19%21119&authkey=%21AAogi7nXDyclDUw&em=2&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
 #### For more freedom with the data, you may download the sheet. Use the First Icon in the bottom dark gray bar^^
+ [For A Video of the Method Used to Embed the Sheet Please Click Here](https://youtu.be/1lgyFIPvmNU?t=140)
+ 
+ ## A Project to Explore Google Virtual Tour
