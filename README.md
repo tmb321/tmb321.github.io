@@ -20,8 +20,9 @@ _[A Helpful YouTube Video for Moving Images to your GitHub Page](https://www.you
 
 With three sheets: One organized by Date of Publication: the Second by The Nine Media Types in Assenting Order: the Third is For You to Sort However You Would
 
-[RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx](https://github.com/tmb321/tmb321.github.io/files/5036976/RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx)
+If a search result interests you and/or you would like to explore the different Media Types, Click on the URL of that record, you will be able to copy it. 
 
+[RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx](https://github.com/tmb321/tmb321.github.io/files/5036976/RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx)
 
 <iframe width="1000" height="750" frameborder="2" scrolling="no" src="https://onedrive.live.com/embed?resid=C126330A4DE07B19%21119&authkey=%21AAogi7nXDyclDUw&em=2&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
