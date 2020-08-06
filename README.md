@@ -27,7 +27,7 @@ If a search result interests you and/or you would like to explore the different 
 
 _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, waited for ZenHub to convert the input, copied the output and pasted it just above to create this downloadable link_
 
-<iframe width="750" height="1000" frameborder="2" scrolling="no" src="https://onedrive.live.com/embed?resid=C126330A4DE07B19%21119&authkey=%21AAogi7nXDyclDUw&em=2&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+<iframe width="750" height="1000" frameborder="11" scrolling="no" src="https://onedrive.live.com/embed?resid=C126330A4DE07B19%21119&authkey=%21AAogi7nXDyclDUw&em=2&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
 ##### For more freedom with the data, you may download the sheet a second way. 
 
