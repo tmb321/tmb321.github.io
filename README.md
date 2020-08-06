@@ -22,7 +22,9 @@ With three sheets: One organized by Date of Publication: the Second by The Nine 
 
 If a search result interests you and/or you would like to explore the different Media Types, Click on the URL of that record, you will be able to copy it. 
 
-[RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx](https://github.com/tmb321/tmb321.github.io/files/5036976/RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx)
+**[RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx](https://github.com/tmb321/tmb321.github.io/files/5036976/RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx)**
+
+_Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, waited for ZenHub to convert the input, copied the output and pasted it just above to create this downloadable link_
 
 <iframe width="1000" height="750" frameborder="2" scrolling="no" src="https://onedrive.live.com/embed?resid=C126330A4DE07B19%21119&authkey=%21AAogi7nXDyclDUw&em=2&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
