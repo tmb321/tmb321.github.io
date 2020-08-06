@@ -31,4 +31,4 @@ If a search result interests you and/or you would like to explore the different 
  
  ## A Project to Explore Google Virtual Tour
  
- Coming Soon
+ Coming Soon!
