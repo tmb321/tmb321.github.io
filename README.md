@@ -1,5 +1,7 @@
-# Welcome to Thomas' GitHub Page 
+# Welcome! Hi I am Thomas, this is my GitHub Page
 ## (tmb321.github.io)
+<img src="ProfilePhoto.PNG" height="225">
+
 #### _I am originally from Wyoming. I am currently an undergraduate studying at Lehigh Univeristy in Pennsylvania_
 #### For more about me check out [My LinkedIn Page](https://www.linkedin.com/in/tmbjr/)
 
