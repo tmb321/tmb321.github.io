@@ -21,13 +21,13 @@ _[A Helpful YouTube Video for Moving Images to your GitHub Page](https://www.you
 ## All 667 Records on Racial Profiling are Organized into Downloadable Excel Workbook
 #### Organization of the Fields: Title, URL, Publication Date, and the Media Type (out of nine possible)
 
-With three sheets: One organized by Date of Publication: the Second by The Nine Media Types in Assenting Order: the Third is For You to Sort However You Would
+With three sheets: One organized by Date of Publication: the Second by The Nine Media Types in Assenting Order: the Third is For You to Sort However You Would (right click the field heading and communicate your preference for viewing the data)
 
 If a search result interests you and/or you would like to explore the different Media Types, Click on the URL of that record, you will be able to copy it. 
 
 **[RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx](https://github.com/tmb321/tmb321.github.io/files/5036976/RacialProfiling_Assignment_ParaseHub_Results_All667.xlsx)**
 
-_Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, waited for ZenHub to convert the input, copied the output and pasted it just above to create this downloadable link_
+_Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, waited for ZenHub to convert the input, copied the output and pasted it just above to create this downloadable link (right above this explination)_
 
 <iframe width="750" height="550" frameborder="11" scrolling="no" src="https://onedrive.live.com/embed?resid=C126330A4DE07B19%21119&authkey=%21AAogi7nXDyclDUw&em=2&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
