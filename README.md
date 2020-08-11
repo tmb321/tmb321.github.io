@@ -40,4 +40,4 @@ _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, wa
 ## A Project to Explore Google Virtual Tour
  
  Coming Soon!
-<script src="/360/embed.js?pano=xrhxzG&width=640&height=480"></script>
+<script  width="640" height="80" src="/360/embed.js?pano=xrhxzG"></script>
