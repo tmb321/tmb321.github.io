@@ -39,11 +39,6 @@ _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, wa
  
 ## A Project to Explore Google Virtual Tour
  
- Coming Soon!
-<script  width="640" height="500" src="/360/embed.js?pano=xrhxzG"><script>
- 
- words
 
-<iframe  width="640" height="500" src="/360/embed.js?pano=xrhxzG"><iframe>
- 
+
  
