@@ -103,7 +103,7 @@ PreReqs: [You will have to click on this one before using short cuts]
  
 In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
  
-<iframe width="1000" height="750" src=" EPA & NOAA/NOAA_cloud_chart.pdf"></iframe>
+<iframe width="1000" height="750" src=" EPA & NOAA/NOAA_cloud_chart.pdf" allowfullscreen></iframe>
 
 ***
 ***
