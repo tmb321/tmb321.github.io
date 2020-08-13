@@ -71,6 +71,14 @@ For 18c Ctrl + Scroll into the *Larger Salmon Pink Box* "Wyoming Basin"
 
 #### Cloud Chart
 **Use the Rotate _Clockwise Circlar Arrow_** in the Top Right Drop Down of this Frame to Properly View this PDF
+
+_________________________________________
+**OR For Some More Short Cuts**
+
+Ctrl + ] = Clockwise Rotation
+
+Ctrl + [ = Counter-Clockwise Rotation
+_________________________________________
  
 <iframe width="1000" height="1000" src=" EPA & NOAA/NOAA_cloud_chart.pdf"></iframe>
 
