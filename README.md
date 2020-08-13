@@ -109,17 +109,18 @@ In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
 ---
 #### All My Audio Files
 
-<iframe width="500" height="250" src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3"></iframe>
+<iframe width="500" height="250" src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3"></iframe>
 
 note 1
 
-<audio src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg"></audio>
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg"></audio>
 
 note2
 <audio controls>
 <source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg"></audio>
 
 n3
+
 
 ***
 ***
