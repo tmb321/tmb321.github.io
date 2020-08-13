@@ -48,7 +48,7 @@ _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, wa
  
 ### A Dive into the Vitality of Water for Life as Conveyed by the Impact of Natural or Irraged Water Plant Growth
 
-Click the Gray [Icosahedron (I believe)](https://www.math-salamanders.com/list-of-geometric-shapes.html#Triangles) in the top Left of the Frame To View This Tour in Full Screen on Poly.Google or click [here](https://poly.google.com/view/4lnbRipNq2c)
+*To See my Drone's Perpective* in Better Detail: Click the Gray [Icosahedron (I believe)](https://www.math-salamanders.com/list-of-geometric-shapes.html#Triangles) in the top Left of the Frame To View This Tour in Full Screen on Poly.Google or click **[HERE]**(https://poly.google.com/view/4lnbRipNq2c)
 
 <iframe width="1000" height="500" src="https://poly.google.com/view/4lnbRipNq2c/embed?chrome=min" frameborder="10" style="border:black;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
@@ -102,4 +102,6 @@ In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
 
 ***
 ***
+## Twitter Data Set 
 
+#### Coming Soon
