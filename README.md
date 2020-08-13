@@ -41,4 +41,10 @@ _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, wa
  
 
 <iframe width="1000" height="500" src="https://poly.google.com/view/4lnbRipNq2c/embed?chrome=min" frameborder="10" style="border:black;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
+<iframe width="500" src="EPA & NOAA/Ecoregions of Wyoming_Map&Legend.pdf"><iframe>
+ 
+_________________
+
+<img src="EPA & NOAA/Ecoregions of Wyoming_Map&Legend.pdf" width="800">
  
