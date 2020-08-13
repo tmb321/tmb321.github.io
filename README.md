@@ -50,7 +50,7 @@ Click the Gray [Icosahedron (I believe)](https://www.math-salamanders.com/list-o
 #### The Location of the virual tour is in 18c Pinedale in the Mid-West Part of the State
 ##### You Can Either Use Controls Built Into The PDF Frames
 
-_Examples:_
+_**Examples:**_
 
 _Ctrl + Scroll = Zoom_
 
