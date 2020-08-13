@@ -53,10 +53,10 @@ _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, wa
 
 <iframe width="1000" height="500" src="https://poly.google.com/view/4lnbRipNq2c/embed?chrome=min" frameborder="10" style="border:black;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
-### [USGS DATA For Green River's Volumtric Flow Rates and Gage Height Nearest to Tour Sites](https://waterdata.usgs.gov/monitoring-location/09188500/#parameterCode=00060&startDT=2020-07-17&endDT=2020-08-12)
+### [USGS DATA For Green River's Volumtric Flow Rates and Gage Height](https://waterdata.usgs.gov/monitoring-location/09188500/#parameterCode=00060&startDT=2020-07-17&endDT=2020-08-12)
 
-#### Wyoming Ecoregion Map and Legend With Evident Borders
-#### The Location of the virual tour is in 18c Pinedale in the Mid-West Part of the State
+
+ 
 ##### You Can Either Use Controls Built Into The PDF Frames
 
 ---
@@ -71,6 +71,11 @@ _Shift + Scroll = Left and Right_
 PreReqs: [Hover Your Mouse of the Frame]
 
 ---
+### Calculations with Links to Source Information
+<iframe width="1000" height="500" src="GoogleVirtualTour_Extra/BeefPoolCalc.pdf"></iframe>
+
+#### Wyoming Ecoregion Map and Legend With Evident Borders
+#### The Location of the virual tour is in 18c Pinedale in the Mid-West Part of the State
 
 <iframe width="1000" height="1000" src="EPA & NOAA/Ecoregions of Wyoming_Map&Legend.pdf"></iframe>
  
