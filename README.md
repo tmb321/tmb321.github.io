@@ -107,22 +107,12 @@ In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
 <iframe width="1000" height="750" src=" EPA & NOAA/NOAA_cloud_chart.pdf" allowfullscreen></iframe>
 
 ---
-#### All My Audio Files
+#### Audio Files
 
-<iframe width="500" height="250" src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" src="GoogleVirtualTour_Extra/WaterVitalityAudio/Green1.mp3"></iframe>
-
-note 1
-
-<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg"></audio>
-
-note2
-<audio controls>
-
-n2.5
-
-<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg"></audio>
-
-n3
+<audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg"></audio>
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/DryHighCountry.mp3" type="audio/mpeg"></audio>
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/IrrigatedHighCountry.mp3" type="audio/mpeg"></audio>
+The Very Constant Strong Wind in the High Country Desert <audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/WindHC.mp3" type="audio/mpeg"></audio>
 
 
 ***
