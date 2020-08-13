@@ -109,12 +109,25 @@ In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
 ---
 #### Audio Files
 
-<audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg">
-Test Words
+<audio controls>
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg">
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/DryHighCountry.mp3" type="audio/mpeg">
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/IrrigatedHighCountry.mp3" type="audio/mpeg">
+</audio>
 
-<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/DryHighCountry.mp3" type="audio/mpeg"></audio>
-<audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/IrrigatedHighCountry.mp3" type="audio/mpeg"></audio>
-The Very Constant Strong Wind in the High Country Desert <audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/WindHC.mp3" type="audio/mpeg"></audio>
+test words
+
+<audio controls>
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg">
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/DryHighCountry.mp3" type="audio/mpeg">
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/IrrigatedHighCountry.mp3" type="audio/mpeg">
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg">
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/DryHighCountry.mp3" type="audio/mpeg">
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/IrrigatedHighCountry.mp3" type="audio/mpeg">
+</audio>
+
+The Very Constant Strong Wind in the High Country Desert 
+<audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/WindHC.mp3" type="audio/mpeg"></audio>
 
 
 ***
