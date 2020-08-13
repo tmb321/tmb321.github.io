@@ -8,6 +8,8 @@
 
 Right now this page is for my Data Storytelling Projects
 
+***
+***
 ## A Project on Creating Charts from Data of Personal Interest
 
 Creating Bar Graph from the [NASA Fireball and Bolide Reports on Datastro](https://www.datastro.eu/explore/dataset/nasa-fireball-and-bolide-reports/table/?sort=date)
@@ -16,6 +18,8 @@ Creating Bar Graph from the [NASA Fireball and Bolide Reports on Datastro](https
 
 _[A Helpful YouTube Video for Moving Images to your GitHub Page](https://www.youtube.com/watch?v=hHbWF1Bvgf4)_
 
+***
+***
 ## Explorations of Parse Hub's Ability to Pick Data 
 [The Racial Profiling Search Results](https://www.aclu.org/search/%20?f[0]=field_issues:245)
 
@@ -38,6 +42,8 @@ _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, wa
 
 ##### [For A Help Video on the Method Used to Embed the Sheet Please Click Here](https://youtu.be/1lgyFIPvmNU?t=140)
  
+***
+***
 ## A Project to Explore Google Virtual Tour
  
 ### A Dive into the Vitality of Water for Life as Conveyed by the Impact of Natural or Irraged Water Plant Growth
@@ -50,7 +56,7 @@ Click the Gray [Icosahedron (I believe)](https://www.math-salamanders.com/list-o
 #### The Location of the virual tour is in 18c Pinedale in the Mid-West Part of the State
 ##### You Can Either Use Controls Built Into The PDF Frames
 
-_________________________________________
+---
 _**Or For Examples of Short Cuts:**_
 
 _Ctrl + Scroll = Zoom_
@@ -61,7 +67,7 @@ _Shift + Scroll = Left and Right_
 
 PreReqs: [Hover Your Mouse of the Frame]
 
-_________________________________________
+---
 
 <iframe width="1000" height="1000" src="EPA & NOAA/Ecoregions of Wyoming_Map&Legend.pdf"></iframe>
  
@@ -77,7 +83,7 @@ For 18c Ctrl + Scroll into the *Larger Salmon Pink Box* "Wyoming Basin"
 #### Cloud Chart
 **Use the Rotate _Clockwise Circlar Arrow_** in the Top Right Drop Down of this Frame to Properly View this PDF
 
-_________________________________________
+---
 **OR For Some More Short Cuts**
 
 Ctrl + ] = Clockwise Rotation
@@ -86,8 +92,14 @@ Ctrl + [ = Counter-Clockwise Rotation
 
 PreReqs: [You will have to click on this one before using short cuts]
 
-_________________________________________
+---
  
-<iframe width="1000" height="1000" src=" EPA & NOAA/NOAA_cloud_chart.pdf"></iframe>
+In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
+ 
+<iframe width="1000" height="500" src=" EPA & NOAA/NOAA_cloud_chart.pdf"></iframe>
+
+***
+***
+
 
  
