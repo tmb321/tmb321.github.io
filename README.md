@@ -49,6 +49,7 @@ Click the Gray [Icosahedron (I believe)](https://www.math-salamanders.com/list-o
 #### Wyoming Ecoregion Map and Legend With Evident Borders
 #### The Location of the virual tour is in 18c Pinedale in the Mid-West Part of the State
 ##### You Can Either Use Controls Built Into The PDF Frames
+
 _________________________________________
 _**Or For Examples of Short Cuts:**_
 
@@ -59,6 +60,7 @@ _Normal Scroll = Up and Down_
 _Shift + Scroll = Left and Right_
 
 PreReqs: [Hover Your Mouse of the Frame]
+
 _________________________________________
 
 <iframe width="1000" height="1000" src="EPA & NOAA/Ecoregions of Wyoming_Map&Legend.pdf"></iframe>
@@ -83,6 +85,7 @@ Ctrl + ] = Clockwise Rotation
 Ctrl + [ = Counter-Clockwise Rotation
 
 PreReqs: [You will have to click on this one before using short cuts]
+
 _________________________________________
  
 <iframe width="1000" height="1000" src=" EPA & NOAA/NOAA_cloud_chart.pdf"></iframe>
