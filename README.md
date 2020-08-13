@@ -54,8 +54,6 @@ Click the Gray [Icosahedron (I believe)](https://www.math-salamanders.com/list-o
 
 #### USGS DATA For River Volumtric Flow Rates and Gage Height
 
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKQR8KP" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-
 <iframe width="1000" scr="https://waterdata.usgs.gov/monitoring-location/09188500/#parameterCode=00060&startDT=2020-07-17&endDT=2020-08-12"></iframe/>
 
 
