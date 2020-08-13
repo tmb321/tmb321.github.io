@@ -70,7 +70,7 @@ For 18c Ctrl + Scroll into the *Larger Salmon Pink Box* "Wyoming Basin"
 <iframe width="1000" height="1000" src="EPA & NOAA/Ecoregions of Wyoming_PosterBack.pdf"></iframe>
 
 #### Cloud Chart
-Use the Rotate _*Clockwise Circlar Arrow*_ in the Top Right Drop Down of this Frame to Properly View this PDF
+**Use the Rotate _Clockwise Circlar Arrow_** in the Top Right Drop Down of this Frame to Properly View this PDF
  
 <iframe width="1000" height="1000" src=" EPA & NOAA/NOAA_cloud_chart.pdf"></iframe>
 
