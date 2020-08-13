@@ -52,6 +52,13 @@ Click the Gray [Icosahedron (I believe)](https://www.math-salamanders.com/list-o
 
 <iframe width="1000" height="500" src="https://poly.google.com/view/4lnbRipNq2c/embed?chrome=min" frameborder="10" style="border:black;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
+#### USGS DATA For River Volumtric Flow Rates and Gage Height
+
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKQR8KP" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+
+<iframe width="1000" scr="https://waterdata.usgs.gov/monitoring-location/09188500/#parameterCode=00060&startDT=2020-07-17&endDT=2020-08-12"></iframe/>
+
+
 #### Wyoming Ecoregion Map and Legend With Evident Borders
 #### The Location of the virual tour is in 18c Pinedale in the Mid-West Part of the State
 ##### You Can Either Use Controls Built Into The PDF Frames
@@ -96,7 +103,7 @@ PreReqs: [You will have to click on this one before using short cuts]
  
 In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
  
-<iframe width="1000" height="500" src=" EPA & NOAA/NOAA_cloud_chart.pdf"></iframe>
+<iframe width="1000" height="750" src=" EPA & NOAA/NOAA_cloud_chart.pdf"></iframe>
 
 ***
 ***
