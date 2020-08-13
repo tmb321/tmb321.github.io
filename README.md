@@ -43,23 +43,32 @@ _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, wa
 
 <iframe width="1000" height="500" src="https://poly.google.com/view/4lnbRipNq2c/embed?chrome=min" frameborder="10" style="border:black;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
-#### Wyoming Ecoregion Map and Legend 
-Large Format
-##### The Location of the virual tour is in 18c Pinedale in the Mid-West Part of the State
+#### Wyoming Ecoregion Map and Legend With Evident Borders
+#### The Location of the virual tour is in 18c Pinedale in the Mid-West Part of the State
+##### You Can Either Use Controls Built Into The PDF Frames
+
+_Examples:_
+
+_Ctrl + Scroll = Zoom_
+
+_Normal Scroll = Up and Down_
+
+_Shift + Scroll = Left and Right_
 
 <iframe width="1000" height="1000" src="EPA & NOAA/Ecoregions of Wyoming_Map&Legend.pdf"></iframe>
  
-#### next 1
+#### Same Map: Additional Details on the Right (Look for 18c in the Second Salmon Pink Box "Wyoming Basin")
 
 <iframe width="1000" height="1000" src="EPA & NOAA/Ecoregions of Wyoming_PosterFront.pdf"></iframe>
  
-#### next 2
+#### Summary Table: Characteristics of the Ecoregions of Wyoming
+For 18c Ctrl + Scroll into the *Larger Salmon Pink Box* "Wyoming Basin"
 
 <iframe width="1000" height="1000" src="EPA & NOAA/Ecoregions of Wyoming_PosterBack.pdf"></iframe>
 
 #### Cloud Chart
+Use the Rotate _*Clockwise Circlar Arrow*_ in the Top Right Drop Down of this Frame to Properly View this PDF
  
 <iframe width="1000" height="1000" src=" EPA & NOAA/NOAA_cloud_chart.pdf"></iframe>
- 
 
- _______________________________________________________________________________________________________________________
+ 
