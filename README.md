@@ -1,4 +1,5 @@
-# Welcome! I am Thomas, this is my GitHub Page
+# Welcome! AND Thank You for Visiting!!
+# I am Thomas, this is my GitHub Page
 ## (tmb321.github.io)
 <img src="ProfilePhoto.PNG" height="225">
 
@@ -40,6 +41,8 @@ _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, wa
 ## A Project to Explore Google Virtual Tour
  
 ### A Dive into the Vitality of Water for Life as Conveyed by the Impact of Natural or Irraged Water Plant Growth
+
+Click the Gray [Icosahedron (I believe)](https://www.math-salamanders.com/list-of-geometric-shapes.html#Triangles) in the top Left of the Frame To View This Tour in Full Screen on Poly.Google or click [here](https://poly.google.com/view/4lnbRipNq2c)
 
 <iframe width="1000" height="500" src="https://poly.google.com/view/4lnbRipNq2c/embed?chrome=min" frameborder="10" style="border:black;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
