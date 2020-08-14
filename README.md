@@ -1,4 +1,4 @@
-# Welcome! AND Thank You for Visiting!!
+# Welcome! Thank You for Visiting!!
 # I am Thomas, this is my GitHub Page
 ## (tmb321.github.io)
 <img src="ProfilePhoto.PNG" height="225">
