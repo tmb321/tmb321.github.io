@@ -55,9 +55,6 @@ _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, wa
 ---
 #### Audio Files
 
-<audio controls>
-<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg"><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/DryHighCountry.mp3" type="audio/mpeg"><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/IrrigatedHighCountry.mp3" type="audio/mpeg"></audio>
-
 ##### *Site 5 & Site 3*
 
 <audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/IrrigatedHighCountry.mp3" type="audio/mpeg"></audio><audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/DryHighCountry.mp3" type="audio/mpeg"></audio>
