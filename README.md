@@ -52,6 +52,22 @@ _Here I used ZenHub, a New Issue, dragged and droped the file into the Issue, wa
 *To See my Drone's Perpective* in Better Detail: Click the Gray [Icosahedron (I believe)](https://www.math-salamanders.com/list-of-geometric-shapes.html#Triangles) in the top Left of the Frame To View This Tour in Full Screen on Poly.Google or click **[HERE](https://poly.google.com/view/4lnbRipNq2c)**
 
 <iframe width="1000" height="500" src="https://poly.google.com/view/4lnbRipNq2c/embed?chrome=min" frameborder="10" style="border:black;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+---
+#### Audio Files
+
+<audio controls>
+<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg"><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/DryHighCountry.mp3" type="audio/mpeg"><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/IrrigatedHighCountry.mp3" type="audio/mpeg"></audio>
+
+##### *Site 5 & Site 3*
+
+<audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/IrrigatedHighCountry.mp3" type="audio/mpeg"></audio><audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/DryHighCountry.mp3" type="audio/mpeg"></audio>
+
+##### *The Green River & The High Country Wind*
+
+<audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/WindHC.mp3" type="audio/mpeg"></audio>
+
+---
 
 ### [USGS DATA For Green River's Volumtric Flow Rates and Gage Height](https://waterdata.usgs.gov/monitoring-location/09188500/#parameterCode=00060&startDT=2020-07-17&endDT=2020-08-12)
 
@@ -107,31 +123,6 @@ In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
 <iframe width="1000" height="750" src=" EPA & NOAA/NOAA_cloud_chart.pdf" allowfullscreen></iframe>
 
 ---
-#### Audio Files
-
-<audio controls>
-<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg"><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/DryHighCountry.mp3" type="audio/mpeg"><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/IrrigatedHighCountry.mp3" type="audio/mpeg"></audio>
-
-n1 
-*Site 5 & Site 3*
-
-<audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/IrrigatedHighCountry.mp3" type="audio/mpeg"></audio><audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/DryHighCountry.mp3" type="audio/mpeg"></audio>
-
-n1.5 
-*The Green River & The High Country Wind*
-
-<audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg"></audio>
-<audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/WindHC.mp3" type="audio/mpeg"></audio>
-
-n2
-
-<audio controls>
-<source src="GoogleVirtualTour_Extra/WaterVitalityAudio/River.mp3" type="audio/mpeg">
-
-n3
-
-The Very Constant Strong Wind in the High Country Desert 
-<audio controls><source src="GoogleVirtualTour_Extra/WaterVitalityAudio/WindHC.mp3" type="audio/mpeg"></audio>
 
 
 ***
