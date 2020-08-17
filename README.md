@@ -1,7 +1,7 @@
 # Welcome! Thank You for Visiting!!
 # I am Thomas, this is my GitHub Page
 ## (tmb321.github.io)
-<img src="ProfilePhoto.PNG" height="225">
+<img src="ProfilePhoto.PNG" height="225"></img>
 
 #### _I am originally from Wyoming. I am currently an undergraduate studying at Lehigh Univeristy in Pennsylvania_
 #### For more about me check out [My LinkedIn Page](https://www.linkedin.com/in/tmbjr/)
@@ -135,8 +135,8 @@ In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
 #### Embeded OneDrive Frame
 <iframe width="750" height="250" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=C126330A4DE07B19%21124&authkey=%21AIgjol4sUBAHKSA&em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
-<img src="TwitterData/#space_Aug10-17_2020.jpg">
+<img src="TwitterData/#space_Aug10-17_2020.jpg"></img>
 
-<img src="TwitterData/%23space_Aug10-17_2020.jpg">
+<img src="TwitterData/%23space_Aug10-17_2020.jpg"></img>
 
 ![#space_Aug10-17_2020](https://user-images.githubusercontent.com/67812109/90382557-23b5d480-e03c-11ea-830c-ca4acc480202.jpg)
