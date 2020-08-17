@@ -14,7 +14,7 @@ Right now this page is for my Data Storytelling Projects
 
 Creating Bar Graph from the [NASA Fireball and Bolide Reports on Datastro](https://www.datastro.eu/explore/dataset/nasa-fireball-and-bolide-reports/table/?sort=date)
 
-<img src="CreatingChartsBolidFireballCountImage.png" width="800" height="550">
+<img src="CreatingChartsBolidFireballCountImage.png" width="800" height="550"></img>
 
 _[A Helpful YouTube Video for Moving Images to your GitHub Page](https://www.youtube.com/watch?v=hHbWF1Bvgf4)_
 
@@ -130,6 +130,6 @@ In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
 
 [#Space: Twitter Data in the Over 7 Days: August 10-17, 2020](TwitterData/#space_tweets_table_Aug10-17_2020.csv)
 
-<iframe width="800" src="https://github.com/tmb321/tmb321.github.io/blob/master/TwitterData/%23space_Aug10-17_2020.jpg"></iframe>
+<iframe width="800" src="TwitterData/%23space_Aug10-17_2020.jpg"></iframe>
 
 ![#space_Aug10-17_2020](https://user-images.githubusercontent.com/67812109/90382557-23b5d480-e03c-11ea-830c-ca4acc480202.jpg)
