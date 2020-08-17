@@ -130,6 +130,6 @@ In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
 
 [#NASA: Twitter Data in the Over 7 Days: August 10-17, 2020](/TwitterData/#space_tweets_table_Aug10-18_2020.csv)
 
-<img src="/TwitterData/#space_Aug10-18_2020" width="800" height="550">
+<img src="/TwitterData/#space_Aug10-18_2020.jpg" width="800" height="550">
 
 
