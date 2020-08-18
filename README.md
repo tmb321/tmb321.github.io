@@ -1,7 +1,7 @@
 # Welcome! Thank You for Visiting!!
 # I am Thomas, this is my GitHub Page
 ## (tmb321.github.io)
-<img src="ProfilePhoto.PNG" height="225"></img>
+<img src="ProfilePhoto.PNG" height="225">
 
 #### _I am originally from Wyoming. I am currently an undergraduate studying at Lehigh Univeristy in Pennsylvania_
 #### For more about me check out [My LinkedIn Page](https://www.linkedin.com/in/tmbjr/)
@@ -14,7 +14,7 @@ Right now this page is for my Data Storytelling Projects
 
 Creating Bar Graph from the [NASA Fireball and Bolide Reports on Datastro](https://www.datastro.eu/explore/dataset/nasa-fireball-and-bolide-reports/table/?sort=date)
 
-<img src="CreatingChartsBolidFireballCountImage.png" width="800" height="550"></img>
+<img src="CreatingChartsBolidFireballCountImage.png" width="800" height="550">
 
 _[A Helpful YouTube Video for Moving Images to your GitHub Page](https://www.youtube.com/watch?v=hHbWF1Bvgf4)_
 
