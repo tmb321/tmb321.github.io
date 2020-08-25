@@ -143,7 +143,6 @@ In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
 ##### place holding
 
 
-
 <div class='tableauPlaceholder' id='viz1597880981611' style='position: relative'>
  <noscript>
   <a href='https:&#47;&#47;tmb321.github.io&#47;'>
@@ -176,9 +175,7 @@ In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-##### ph0.5 Pop Up Window Link
-
-[link](https://public.tableau.com/views/TwitterSpaceInterestDataPickedAndStory_v2/Dashboard1_StatesByColorYesByNumberName)
+##### [Pop Up Window Link for the First Dashboard](https://public.tableau.com/views/TwitterSpaceInterestDataPickedAndStory_v2/Dashboard1_StatesByColorYesByNumberName)
 
 ##### ph1
 <div class='tableauPlaceholder' id='viz1597885131695' style='position: relative'><noscript><a href='https:&#47;&#47;tmb321.github.io&#47;'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tw&#47;TwitterSpaceInterestDataPickedAndStory_v2&#47;Dashboard2_NoStatesAllStateData&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TwitterSpaceInterestDataPickedAndStory_v2&#47;Dashboard2_NoStatesAllStateData' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tw&#47;TwitterSpaceInterestDataPickedAndStory_v2&#47;Dashboard2_NoStatesAllStateData&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                
@@ -217,6 +214,6 @@ In The Tour: I reference the Cumulus Clouds (Low Clouds) In Green
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-##### ph1.75 Pop Up Window Link
+##### [Pop Up Window Link for the Second Dashboard](https://public.tableau.com/views/TwitterSpaceInterestDataPickedAndStory_v2/Dashboard2_NoStatesAllStateData)
 
-[link](https://public.tableau.com/views/TwitterSpaceInterestDataPickedAndStory_v2/Dashboard2_NoStatesAllStateData)
+###### My main objective with these two similar data aquisition and display methods from Twitter and with Tableau (Maps and then Desktop) was to gain a feeling for the dispersion of interest in what's just [100 km away](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line). *However I know these representations to be limited for I am highly interested in space and yet don't use twitter let along twitter with geolocation enabled. Thus anyone similar to me who loves space but infrequently posts about it in social media is not included here.* 
